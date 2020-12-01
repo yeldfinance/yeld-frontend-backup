@@ -60,7 +60,7 @@ class App extends Component {
   state = {
     setupComplete: false,
     betaValid: false,
-    displayWarning: true,
+    displayWarning: false,
     modalOpen: true,
     v2Selected: true,
     retirementYeld: null,
